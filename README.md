@@ -1,1 +1,4 @@
-# SP17 HTML5 100 CSS Practice
+# Odin Projects
+**********************************
+
+# PROJECT NAME: A Landing Page
